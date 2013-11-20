@@ -1,4 +1,4 @@
-# About X
+# X
 
 Tagline (one phrase).
 
