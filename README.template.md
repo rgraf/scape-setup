@@ -9,6 +9,7 @@ Describe in a few sentences what is the purpose of X.
 ### What are the benefits for end user?
 
 A list of benefits X brings to the end user:
+
 * User can do this..
 * This part of X is new because...
 * This part of X is special because...
@@ -16,6 +17,7 @@ A list of benefits X brings to the end user:
 ### Who is intended audience?
 
 X is for:
+
 * Content holders?
 * Preservation experts?
 * Institutions that would like to do this...
@@ -35,7 +37,9 @@ X is for:
 ## How to install and use
 
 ### Requirements
+
 To install you need:
+
 * Dependency 1
 * Dependency 2
 
@@ -95,11 +99,13 @@ This tool is supported by the [Open Planets Foundation](http://www.openplanetsfo
 ### Requirements
 
 To build you require:
+
 * Git client
 * Apache Maven
 * Java Developers Kit (e.g. OpenJDK 6)
 
 For using the recommended IDE you require:
+
 * Eclipse of Java
 
 ### Setup IDE
@@ -131,6 +137,7 @@ To deploy do ...
 3. [Submit a pull request](https://help.github.com/articles/using-pull-requests)
 
 To increase the changes of you code being accepted and merged into the official source here's a checklist of things to go over before submitting a contribution. For example:
+
 * Has unit tests (that covers at least 80% of the code)
 * Has documentation (at least 80% of public API)
 * Agrees to contributor license agreement, certifying that any contributed code is original work and that the copyright is turned over to the project
