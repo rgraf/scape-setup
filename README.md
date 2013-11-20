@@ -23,6 +23,8 @@ TODO: Add download link when initial prototype release is ready.
 ### More About READMEs
 GitHub README.md files are created using [GitHub flavoured markdown](https://help.github.com/articles/github-flavored-markdown).
 
+For an alternative, GitHub take on READMEs look at [Tom Preston-Werner's blog post on ReadMe Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html).
+
 ## Parent POM
 A parent pom.xml to be used by all SCAPE project Maven projects. The need for this arose when the time came to apply
 a consistent license header across the Java projects using a
