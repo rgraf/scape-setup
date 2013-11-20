@@ -2,56 +2,58 @@
 
 Tagline (one phrase).
 
-#### What does X do?
+### What does X do?
 
 Describe in a few sentences what is the purpose of X.
 
-#### What are the benefits for end user?
+### What are the benefits for end user?
 
 A list of benefits X brings to the end user:
 * User can do this..
 * This part of X is new because...
 * This part of X is special because...
 
-#### Who is intended audience?
+### Who is intended audience?
 
 X is for:
 * Content holders?
 * Preservation experts?
 * Institutions that would like to do this...
 
-# Features and roadmap
+## Features and roadmap
 
-Version 0.0.1:
+### Version 0.0.1
+
 * Feature 1
 * Feature 2
 
-Roadmap:
+### Roadmap
+
 * Feature 3
 * Feature 4
 
-# How to install and use
+## How to install and use
 
-## Requirements
+### Requirements
 To install you need:
 * Dependency 1
 * Dependency 2
 
-## Download
+### Download
 
 | Version | Size   | SHA1                                                    |                      |
 |---------|--------|---------------------------------------------------------|----------------------|
 | v0.0.1  | 1.2 MB | <small>1234567890abcdef1234567890abcdef12345678</small> |[download](binary.jar)|
 
 
-## Install instructions
+### Install instructions
 
 To install follow these steps:
 
 1. First step
 2. Second step
 
-## Use
+### Use
 
 To use the tool, you can try the following command:
 ```bash
@@ -60,37 +62,37 @@ Synopsys: java -jar binary.jar ...
 ...
 ```
 
-## Troubleshooting
+### Troubleshooting
 
 **Getting exception "NullPointerException"**
 
 To solve this problem...
 
 
-# More information
+## More information
 
-## Publications
+### Publications
 
 * Publication 1
 * Publication 2
 
-## Licence
+### Licence
 
 X is released under [Apache version 2.0 license](LICENSE.txt).
 
-## Acknowledgements
+### Acknowledgements
 
 Part of this work was supported by the European Union in the 7th Framework Program, IST, through the SCAPE project, Contract 270137.
 
-## Support
+### Support
 
 This tool is supported by the [Open Planets Foundation](http://www.openplanetsfoundation.org). Commercial support is provided by company X.
 
-# Develop
+## Develop
 
 [![Build Status](https://travis-ci.org/openplanets/scape.png)](https://travis-ci.org/openplanets/scape)
 
-## Requirements
+### Requirements
 
 To build you require:
 * Git client
@@ -100,7 +102,7 @@ To build you require:
 For using the recommended IDE you require:
 * Eclipse of Java
 
-## Setup IDE
+### Setup IDE
 
 1. Start Eclipse
 2. Select "File > Import". Then, select "Maven > Existing Maven Projects" and click "Next"
@@ -108,7 +110,7 @@ For using the recommended IDE you require:
 4. Optionally, you can add it to a "Working set"
 5. Click "Finish"
 
-## Build
+### Build
 
 To compile go to the sources folder and execute the command:
 
@@ -118,11 +120,11 @@ $ mvn clean install
 
 After successful compile the binary will be available at `target/binary.jar`.
 
-## Deploy
+### Deploy
 
 To deploy do ...
 
-## Contribute
+### Contribute
 
 1. [Fork the GitHub project](https://help.github.com/articles/fork-a-repo)
 2. Change the code and push into the forked project
