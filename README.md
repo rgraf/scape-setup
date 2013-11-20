@@ -3,7 +3,7 @@ scape-setup
 
 ## Introduction
 This repository is a home for SCAPE related files that are used with other projects.
-Currently there are two items in the repo, the [README.template](README.template) and the [SCAPE Parent POM](pom.xml).
+Currently there are two items in the repo, the [README.template.md](README.template.md) and the [SCAPE Parent POM](pom.xml).
 
 ## README Template
 The README template prescribes the information that the SCAPE project would like to see in ALL project README.md files.
