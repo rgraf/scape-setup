@@ -58,6 +58,9 @@ If you're interested in why we're recommending this, it's to stay in line with s
 
 The Apache Maven Introduction says a little about the [Maven inheritance model](http://maven.apache.org/guides/introduction/introduction-to-the-pom.html#Project_Inheritance).
 
-
+### Links to the Scape tools
+https://github.com/openpreserve/finger-detection-tool
+https://github.com/openpreserve/crop-detection-tool
+https://github.com/openpreserve/fuzzy-expert-system
 
  
